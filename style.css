@@ -1,0 +1,120 @@
+.bgcolor {
+  background-image: url("mainimage7.jpg");
+  height: 100vh;
+
+  background-size: cover;
+}
+.page1insidecontainer {
+  margin-top: 100px;
+  text-align: left;
+}
+.page1heading {
+  font-family: "Roboto";
+  font-size: 29px;
+  font-weight: bold;
+  color: white;
+}
+.page1para1 {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+.page1para2 {
+  font-family: "Roboto";
+  font-size: 17px;
+  font-weight: bold;
+  color: white;
+}
+
+.page2bgimage {
+  background-image: url("mainimage11.jpg");
+  background-size: cover;
+  height: 100vh;
+  border-radius: 0px;
+  border-width: 3px;
+  border-color: rgb(0, 114, 122);
+  border-style: dotted;
+}
+.page2insidecontainer {
+  margin-top: 200px;
+  text-align: center;
+  border-radius: 26px;
+}
+.page2heading {
+  font-family: "Roboto";
+  font-size: 29px;
+  font-weight: bold;
+  color: white;
+}
+.page2iconstyle {
+  text-align: center;
+}
+.model-titlee {
+  color: black;
+}
+.modell {
+  background-image: radial-gradient(rgb(241, 244, 243), rgb(250, 238, 76));
+  text-align: left;
+}
+
+.bgforpage3 {
+  background-image: url("mainimage10.jpg");
+  height: 100vh;
+  background-size: cover;
+  text-align: left;
+}
+.page3insidecon {
+  text-align: right;
+  background-image: radial-gradient(rgb(242, 244, 248));
+  color: white;
+  border-radius: 16px;
+}
+.marginn {
+  margin: 32%;
+}
+.textstyle {
+  font-family: "Roboto";
+  font-size: 29px;
+}
+.page3imagestyling {
+  height: 50%;
+  width: 50%;
+  margin-left: 100px;
+}
+
+.page4bgimage {
+  height: 80vh;
+}
+.page4alignment {
+  text-align: center;
+  background-image: radial-gradient(rgb(242, 244, 248), black);
+  background-size: cover;
+}
+
+.page5bg1 {
+  background-image: url("mainimage6.avif");
+  background-size: cover;
+  height: 100vh;
+  text-align: left;
+  padding: 10%;
+}
+.page5bg2 {
+  border-radius: 16px;
+}
+.page5heading {
+  font-family: "Roboto";
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+.para1page5 {
+  font-family: "Roboto";
+  color: white;
+  font-size: 20px;
+}
+.para2page5 {
+  font-family: "Roboto";
+  color: white;
+  font-size: 18px;
+}
